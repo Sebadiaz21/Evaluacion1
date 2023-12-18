@@ -1,0 +1,39 @@
+ header {
+background-color: midnightblue; 
+color: white; 
+text-align: center;
+padding: 6px;
+font-size: 20px;
+}
+#imagen{
+text-align: center;
+}
+.bordered-box{
+background-color: #BBC7E7;
+border-top-left-radius: 90px;
+border-top-right-radius: 80px;
+border-bottom-left-radius: 90px;
+border-bottom-right-radius: 90px;
+text-align: center;
+font-family: cascadia semilight;
+}
+
+footer{
+background-color: midnightblue; 
+color: white; 
+text-align: center;
+padding: 2px;
+font-size: 14px;
+}
+
+#tabla{
+text-align: justify; 
+font-family: cascadia semilight;
+}
+
+a {
+color: buttonface;
+}
+a:hover {
+    color: yellow;
+}
